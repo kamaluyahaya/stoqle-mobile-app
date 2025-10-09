@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1027100901898",
+    "project_id": "stoqle",
+    "storage_bucket": "stoqle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027100901898:android:42fdeccd8efcb2f5a415f3",
+        "android_client_info": {
+          "package_name": "com.ksofttechnova.stoqle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027100901898-bmg2g6o2gugaldi4emocpgfm64ave4jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksofttechnova.stoqle",
+            "certificate_hash": "49ab2b7b7c1b6e08c06b8bf941a2193c56bafe61"
+          }
+        },
+        {
+          "client_id": "1027100901898-5ug90fp54epnjk16cpu6540b05qj3b3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWLCE9dtoJ83G4KebiPGSODm6fkJidPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027100901898-5ug90fp54epnjk16cpu6540b05qj3b3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027100901898-4bh583607q3piep1ov3at3ukr3af12qm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ksofttechnova.stoqle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
